@@ -1,6 +1,6 @@
 {
   "name": "svelte2html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render svelte file to html",
   "bin": "index.js",
   "repository": {

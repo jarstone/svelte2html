@@ -1,0 +1,21 @@
+{
+  "name": "svelte2html",
+  "version": "1.0.0",
+  "description": "Render svelte file to html",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://jarstone@github.com/jarstone/svelte2html.git"
+  },
+  "keywords": [
+    "svelte to html",
+    "svelte static",
+    "svelte converter"
+  ],
+  "author": "jarstone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarstone/svelte2html/issues"
+  },
+  "homepage": "https://github.com/jarstone/svelte2html#readme"
+}

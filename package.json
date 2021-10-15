@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jarstone/svelte2html/issues"
   },
-  "homepage": "https://github.com/jarstone/svelte2html#readme"
+  "homepage": "https://github.com/jarstone/svelte2html#readme",
+  "dependencies": {
+    "svelte": "^3.43.2"
+  }
 }
